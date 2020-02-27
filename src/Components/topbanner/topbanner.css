@@ -4,7 +4,7 @@
 
 #top-banner {
     background: black;
-    padding: 15px;
+    padding: 15px 15px 10px 15px;
 }
 
 #nametag {
@@ -12,7 +12,7 @@
     font-size: x-large;
     color: whitesmoke;
     text-align: center;
-    padding: 5px;
+    padding: 5px 5px 0 5px;
     font-weight: bolder;
 }
 

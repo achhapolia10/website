@@ -1,0 +1,28 @@
+.card {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    color: whitesmoke;
+    background: black;
+    padding: 10px;
+    margin: 15px;
+    font-family: "Courier New";
+    border-radius: 10px;
+    elevation: higher;
+    width: auto;
+}
+
+.card-title {
+    font-size: larger;
+    display: inline-block;
+}
+
+.card-content {
+    padding-left: 6px;
+    text-align: justify-all;
+}
+
+
+@media screen and (min-width: 768px) {
+    .card-content {
+        padding-left: 30px;
+    }
+}

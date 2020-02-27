@@ -1,0 +1,30 @@
+.content {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.masonry-grid {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: -10px;
+    width: auto;
+}
+
+.cards {
+    padding-left: 10px;
+    background-clip: padding-box;
+}
+
+.card {
+    padding-bottom: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .content {
+        padding-top: 20px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}

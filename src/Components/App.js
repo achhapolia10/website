@@ -2,6 +2,7 @@ import React from 'react';
 import logo from '../logo.svg';
 import './css/App.css';
 import TopBanner from "./topbanner/topbanner"
+import Body from './body/body.js'
 
 class App extends React.Component {
     render() {
@@ -10,7 +11,7 @@ class App extends React.Component {
         return (
             <div>
                 <TopBanner/>
-
+                <Body/>
             </div>
         )
 
