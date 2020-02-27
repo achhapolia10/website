@@ -1,0 +1,47 @@
+#top-banner #social-media {
+    display: none;
+}
+
+#top-banner {
+    background: black;
+    padding: 15px;
+}
+
+#nametag {
+    font-family: "URW Gothic";
+    font-size: x-large;
+    color: whitesmoke;
+    text-align: center;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+#top-banner {
+    text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+
+    #top-banner {
+        text-align: left;
+    }
+
+    #top-banner #social-media {
+        padding-left: 50px;
+        float: right;
+        display: block;
+    }
+
+    #top-banner .icon-img {
+        min-width: 30px;
+        min-height: 30px;
+        max-width: 32px;
+        max-height: 32px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    #top-banner .sicon {
+        float: left;
+    }
+}
