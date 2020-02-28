@@ -1,0 +1,151 @@
+.projects-container {
+    margin: 0 -10px 0 -10px;
+}
+
+.project-title-anchor {
+    color: #001437;
+    text-decoration: none;
+}
+
+.project-title-anchor:hover {
+    text-decoration: none;
+    color: #001437;
+}
+
+.project-title-anchor:visited {
+    color: #001437;
+    text-decoration: none;
+}
+
+.project-title-anchor:active {
+    color: #001437;
+    text-decoration: none;
+}
+
+
+.projects-title {
+    font-size: 2.1em;
+    text-decoration: underline;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.project-button, .project-button-selected {
+    display: none;
+}
+
+.projects-selector-mobile {
+    text-align: center;
+}
+
+
+.project-selector-dropdown {
+    display: inline;
+    background: white;
+    text-decoration: none;
+    padding: 15px 32px;
+    text-align: center;
+    margin: 20px;
+    border: 3px solid #001437;
+    color: #001437;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.6s;
+    font-size: 1em;
+}
+
+.project-card-title {
+    padding: 10px;
+    font-size: xx-large;
+    color: #001437;
+}
+
+.project-card-description {
+    font-size: larger;
+    padding: 10px 30px 10px 30px;
+}
+
+
+@media screen and (min-width: 768px) {
+    .projects-container {
+        margin: 0 -40px 0 -40px;
+        background: #7898fb;
+    }
+
+    .project-card-container {
+        padding-right: 20%;
+        padding-top: 20px;
+        padding-left: 20%;
+    }
+
+
+    .projects-container-inside {
+        background: whitesmoke;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+
+    .projects-selector-desktop {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .projects-selector-mobile {
+        display: none;
+    }
+
+    .project-button {
+        display: inline;
+        background: whitesmoke;
+        text-decoration: none;
+        padding: 15px 32px;
+        text-align: center;
+        margin: 20px;
+        border: 3px solid #001437;
+        color: #001437;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.3s;
+        font-size: 1em;
+    }
+
+    .project-button:hover {
+        background: #001437;
+        color: #b8fb37;
+    }
+
+    .project-card {
+        height: 220px;
+    }
+
+    .project-button-selected {
+        background: #001437;
+        display: inline;
+        padding: 15px 32px;
+        text-align: center;
+        margin: 20px;
+        border: 3px solid #001437;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.3s;
+        font-size: 1em;
+        color: #b8fb37;
+    }
+
+    .project-button:focus {
+        background: #001437;
+        color: #b8fb37;
+    }
+
+    .project-selector-dropdown option {
+        outline: green;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .project-card-container {
+        padding-right: 25%;
+        padding-top: 20px;
+        padding-left: 25%;
+    }
+}

@@ -10,6 +10,11 @@
     padding-top: 20px;
 }
 
+#about-me-card {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 #about-me p {
     margin-top: 0;
 }
