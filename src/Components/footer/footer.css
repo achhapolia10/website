@@ -1,0 +1,27 @@
+.footer {
+    background: black;
+    margin: 0 -10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.footer .sicon {
+    display: inline-block;
+}
+
+.footer .icon-img {
+    min-width: 30px;
+    min-height: 30px;
+    max-width: 32px;
+    max-height: 32px;
+    padding-left: 10px;
+    padding-right: 10px;
+    fill: whitesmoke;
+}
+
+@media screen and (min-width: 768px) {
+    .footer {
+        display: none;
+    }
+}

@@ -8,7 +8,7 @@
 .hrule {
     height: 100%;
     width: 50%;
-    background: #7898fb;
+    color:#7898fb;
     display: inline-block;
     border-radius: 30px;
 }

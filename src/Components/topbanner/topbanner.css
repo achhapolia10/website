@@ -5,6 +5,7 @@
 #top-banner {
     background: black;
     padding: 15px 15px 10px 15px;
+    display: none;
 }
 
 #nametag {
@@ -24,6 +25,7 @@
 
     #top-banner {
         text-align: left;
+        display: block;
     }
 
     #top-banner #social-media {
