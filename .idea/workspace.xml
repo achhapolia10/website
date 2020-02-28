@@ -2,21 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e6c0fb-60c1-4ccc-bffb-a3cdba076d36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Achievements/achievement.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Achievements/achievement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/aboutme/aboutme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/aboutme/aboutme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/body/body.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/body/body.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/projects/projects.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/projects/projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/horizontal-rule/hrule.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/horizontal-rule/hrule.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/css/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/topbanner/topbanner.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/topbanner/topbanner.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Achievements/achievement.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Achievements/achievement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/aboutme/aboutme.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/aboutme/aboutme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/aboutme/aboutme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/aboutme/aboutme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/body/body.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/body/body.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/projects/projects.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/projects/projects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/socialmedia/socialmedia.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/socialmedia/socialmedia.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582807631232</updated>
-      <workItem from="1582807633206" duration="24269000" />
+      <workItem from="1582807633206" duration="25483000" />
+      <workItem from="1582868578856" duration="6059000" />
     </task>
     <servers />
   </component>
